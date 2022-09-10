@@ -1,10 +1,10 @@
-package ru.job4j.project_spring.store;
+package ru.job4j.VacancyAndCandidate_list.store;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 import org.junit.jupiter.api.Test;
-import ru.job4j.project_spring.Main;
-import ru.job4j.project_spring.model.City;
-import ru.job4j.project_spring.model.Post;
+import ru.job4j.VacancyAndCandidate_list.Main;
+import ru.job4j.VacancyAndCandidate_list.model.City;
+import ru.job4j.VacancyAndCandidate_list.model.Post;
 
 import java.time.LocalDate;
 

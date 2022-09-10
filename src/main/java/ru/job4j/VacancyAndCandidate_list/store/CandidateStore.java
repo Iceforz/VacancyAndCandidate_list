@@ -1,7 +1,7 @@
-package ru.job4j.project_spring.store;
+package ru.job4j.VacancyAndCandidate_list.store;
 
 import org.springframework.stereotype.Repository;
-import ru.job4j.project_spring.model.Candidate;
+import ru.job4j.VacancyAndCandidate_list.model.Candidate;
 
 import javax.annotation.concurrent.ThreadSafe;
 import java.time.LocalDate;

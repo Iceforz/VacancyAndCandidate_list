@@ -1,9 +1,8 @@
-package ru.job4j.project_spring.service;
+package ru.job4j.VacancyAndCandidate_list.service;
 
 import org.springframework.stereotype.Service;
-import ru.job4j.project_spring.model.Post;
-import ru.job4j.project_spring.store.PostDBStore;
-import ru.job4j.project_spring.store.PostStore;
+import ru.job4j.VacancyAndCandidate_list.model.Post;
+import ru.job4j.VacancyAndCandidate_list.store.PostDBStore;
 
 import javax.annotation.concurrent.ThreadSafe;
 import java.util.Collection;

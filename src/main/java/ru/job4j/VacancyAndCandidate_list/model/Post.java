@@ -1,4 +1,4 @@
-package ru.job4j.project_spring.model;
+package ru.job4j.VacancyAndCandidate_list.model;
 
 import java.io.Serializable;
 import java.time.LocalDate;

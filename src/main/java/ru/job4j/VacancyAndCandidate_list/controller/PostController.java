@@ -1,13 +1,13 @@
-package ru.job4j.project_spring.controller;
+package ru.job4j.VacancyAndCandidate_list.controller;
 
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import ru.job4j.project_spring.model.Post;
-import ru.job4j.project_spring.model.User;
-import ru.job4j.project_spring.service.CityService;
-import ru.job4j.project_spring.service.PostService;
+import ru.job4j.VacancyAndCandidate_list.model.Post;
+import ru.job4j.VacancyAndCandidate_list.model.User;
+import ru.job4j.VacancyAndCandidate_list.service.CityService;
+import ru.job4j.VacancyAndCandidate_list.service.PostService;
 
 import javax.annotation.concurrent.ThreadSafe;
 import javax.servlet.http.HttpSession;

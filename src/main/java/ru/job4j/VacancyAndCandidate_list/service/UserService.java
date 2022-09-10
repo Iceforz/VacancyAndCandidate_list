@@ -1,8 +1,8 @@
-package ru.job4j.project_spring.service;
+package ru.job4j.VacancyAndCandidate_list.service;
 
 import org.springframework.stereotype.Service;
-import ru.job4j.project_spring.model.User;
-import ru.job4j.project_spring.store.UserDBStore;
+import ru.job4j.VacancyAndCandidate_list.model.User;
+import ru.job4j.VacancyAndCandidate_list.store.UserDBStore;
 
 import java.util.Optional;
 

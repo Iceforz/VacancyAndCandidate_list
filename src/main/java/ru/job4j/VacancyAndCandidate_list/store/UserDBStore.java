@@ -1,9 +1,9 @@
-package ru.job4j.project_spring.store;
+package ru.job4j.VacancyAndCandidate_list.store;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.apache.logging.log4j.LogManager;
 import org.springframework.stereotype.Repository;
-import ru.job4j.project_spring.model.User;
+import ru.job4j.VacancyAndCandidate_list.model.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

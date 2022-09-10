@@ -1,10 +1,10 @@
-package ru.job4j.project_spring.service;
+package ru.job4j.VacancyAndCandidate_list.service;
 
 import org.springframework.stereotype.Service;
 
-import ru.job4j.project_spring.model.Candidate;
+import ru.job4j.VacancyAndCandidate_list.model.Candidate;
 
-import ru.job4j.project_spring.store.CandidateDBStore;
+import ru.job4j.VacancyAndCandidate_list.store.CandidateDBStore;
 
 
 import javax.annotation.concurrent.ThreadSafe;

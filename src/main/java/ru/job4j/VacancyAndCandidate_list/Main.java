@@ -1,4 +1,4 @@
-package ru.job4j.project_spring;
+package ru.job4j.VacancyAndCandidate_list;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.springframework.boot.SpringApplication;

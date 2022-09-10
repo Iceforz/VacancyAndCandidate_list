@@ -1,4 +1,4 @@
-package ru.job4j.project_spring.filter;
+package ru.job4j.VacancyAndCandidate_list.filter;
 
 import org.springframework.stereotype.Component;
 

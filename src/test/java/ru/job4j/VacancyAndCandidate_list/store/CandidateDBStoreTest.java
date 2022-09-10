@@ -1,9 +1,9 @@
-package ru.job4j.project_spring.store;
+package ru.job4j.VacancyAndCandidate_list.store;
 
 import org.junit.jupiter.api.Test;
-import ru.job4j.project_spring.Main;
-import ru.job4j.project_spring.model.Candidate;
-import ru.job4j.project_spring.model.City;
+import ru.job4j.VacancyAndCandidate_list.Main;
+import ru.job4j.VacancyAndCandidate_list.model.Candidate;
+import ru.job4j.VacancyAndCandidate_list.model.City;
 
 import java.time.LocalDate;
 

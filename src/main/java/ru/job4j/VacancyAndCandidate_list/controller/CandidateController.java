@@ -1,4 +1,4 @@
-package ru.job4j.project_spring.controller;
+package ru.job4j.VacancyAndCandidate_list.controller;
 
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.core.io.Resource;
@@ -9,10 +9,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
-import ru.job4j.project_spring.model.Candidate;
-import ru.job4j.project_spring.model.User;
-import ru.job4j.project_spring.service.CandidateService;
-import ru.job4j.project_spring.service.CityService;
+import ru.job4j.VacancyAndCandidate_list.model.Candidate;
+import ru.job4j.VacancyAndCandidate_list.model.User;
+import ru.job4j.VacancyAndCandidate_list.service.CandidateService;
+import ru.job4j.VacancyAndCandidate_list.service.CityService;
 
 import javax.annotation.concurrent.ThreadSafe;
 import javax.servlet.http.HttpSession;

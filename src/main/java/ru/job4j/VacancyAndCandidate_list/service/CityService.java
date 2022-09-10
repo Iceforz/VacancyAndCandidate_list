@@ -1,7 +1,7 @@
-package ru.job4j.project_spring.service;
+package ru.job4j.VacancyAndCandidate_list.service;
 
 import org.springframework.stereotype.Service;
-import ru.job4j.project_spring.model.City;
+import ru.job4j.VacancyAndCandidate_list.model.City;
 
 import java.util.ArrayList;
 import java.util.HashMap;

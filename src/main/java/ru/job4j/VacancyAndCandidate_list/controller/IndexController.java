@@ -1,9 +1,9 @@
-package ru.job4j.project_spring.controller;
+package ru.job4j.VacancyAndCandidate_list.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import ru.job4j.project_spring.model.User;
+import ru.job4j.VacancyAndCandidate_list.model.User;
 
 import javax.annotation.concurrent.ThreadSafe;
 import javax.servlet.http.HttpSession;
