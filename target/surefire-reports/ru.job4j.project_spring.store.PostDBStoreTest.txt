@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.job4j.project_spring.store.PostDBStoreTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.468 s <<< FAILURE! - in ru.job4j.project_spring.store.PostDBStoreTest
+whenCreatePost  Time elapsed: 0.462 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "ru.job4j.project_spring.model.Post.getName()" because "postInDb" is null
+	at ru.job4j.project_spring.store.PostDBStoreTest.whenCreatePost(PostDBStoreTest.java:19)
+

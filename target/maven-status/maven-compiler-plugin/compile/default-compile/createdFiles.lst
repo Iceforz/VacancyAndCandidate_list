@@ -1,0 +1,14 @@
+ru\job4j\project_spring\controller\CandidateController.class
+ru\job4j\project_spring\service\CandidateService.class
+ru\job4j\project_spring\store\CandidateStore.class
+ru\job4j\project_spring\store\PostStore.class
+ru\job4j\project_spring\controller\IndexControl.class
+ru\job4j\project_spring\model\Post.class
+ru\job4j\project_spring\model\Candidate.class
+ru\job4j\project_spring\service\CityService.class
+ru\job4j\project_spring\controller\PostController.class
+ru\job4j\project_spring\Main.class
+ru\job4j\project_spring\model\City.class
+ru\job4j\project_spring\store\PostDBStore.class
+ru\job4j\project_spring\store\CandidateDBStore.class
+ru\job4j\project_spring\service\PostService.class
